@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "": "nodemon .JS/01-.js",
+    "N_S": "nodemon ./js/01-N_S.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
