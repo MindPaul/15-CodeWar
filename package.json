@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "even": "nodemon ./js/06-even.js",
+    "reverStr": "nodemon ./js/05-reverStr.js",
+    "stringUpercase": "nodemon ./js/04-stringUpercase.js",
+    "8-9": "nodemon ./js/03-8-9.js",
     "arrayTodigits": "nodemon ./js/02-arrayTodigits.js",
     "N_S": "nodemon ./js/01-N_S.js",
     "test": "echo \"Error: no test specified\" && exit 1"
